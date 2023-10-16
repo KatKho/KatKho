@@ -4,7 +4,7 @@
 
 Hello! 👋 I'm Ekaterina Khoroshilova, a Full-Stack Software Developer and US Coast Guard veteran. Welcome to my GitHub profile.
 
-## About Me 📌
+## 📌 About Me
 
 - 🎓 Currently attending Code Fellows - Advanced Software Development in Full-Stack JavaScript.
   - Graduating November 2023
@@ -20,7 +20,7 @@ The defining moment that pivoted me towards web development happened during my t
 
 Today, as a Full-Stack Software Developer, I see every project as an opportunity to not just code, but to solve problems and create value. With a particular interest in the gaming industry and the ever-evolving realm of AI, I aim to merge my passions and create innovative solutions.
 
-## 🎮 Gaming & AI: My Twin Passions
+## 🎮 Gaming & AI
 
 Ever since I can recall, video games have been my escape, my passion, and my window to countless worlds. This love for gaming aligns perfectly with my fascination for AI. I believe that the future of gaming will be significantly influenced by advancements in AI, and I aspire to be a part of this evolution. With projects like "Lorecraft," where I've melded character creation with GPT-3 and AI imaging, I'm steadily working towards this goal.
 
@@ -28,7 +28,7 @@ Ever since I can recall, video games have been my escape, my passion, and my win
 
 The tech realm is ever-changing, and I firmly believe in the mantra of continuous learning. Currently, I'm honing my skills at Code Fellows, specializing in Full-Stack JavaScript. Yet, this is just a step in my perpetual journey of growth and discovery.
 
-## My Projects 🚀
+## 🚀 My Projects
 
 - [Lorecraft](https://github.com/Lore-Craft) - Sep 2023
   - **Description**: Innovative character creation app utilizing GPT-3 and AI imaging. Crafted with React.js, it integrates various components to streamline the process of character creation, letting users delve deeper into the realm of creativity.
@@ -44,12 +44,12 @@ The tech realm is ever-changing, and I firmly believe in the mantra of continuou
 
 🔗 [Check out my portfolio website](https://ekaterina-portfolio.netlify.app/)
 
-## Connect With Me 🤝
+## 🤝 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/ekaterina-khoroshilova/)
 - [Email](mailto:ek.khorosh@gmail.com)
 
-## My GitHub Stats
+## 📊 My GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KatKho&theme=dark)](https://git.io/streak-stats)
 
