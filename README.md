@@ -20,11 +20,11 @@ The defining moment that pivoted me towards web development happened during my t
 
 Today, as a Full-Stack Software Developer, I see every project as an opportunity to not just code, but to solve problems and create value. With a particular interest in the gaming industry and the ever-evolving realm of AI, I aim to merge my passions and create innovative solutions.
 
-### 🎮 Gaming & AI: My Twin Passions
+## 🎮 Gaming & AI: My Twin Passions
 
 Ever since I can recall, video games have been my escape, my passion, and my window to countless worlds. This love for gaming aligns perfectly with my fascination for AI. I believe that the future of gaming will be significantly influenced by advancements in AI, and I aspire to be a part of this evolution. With projects like "Lorecraft," where I've melded character creation with GPT-3 and AI imaging, I'm steadily working towards this goal.
 
-### 📈 Continuous Growth
+## 📈 Continuous Growth
 
 The tech realm is ever-changing, and I firmly believe in the mantra of continuous learning. Currently, I'm honing my skills at Code Fellows, specializing in Full-Stack JavaScript. Yet, this is just a step in my perpetual journey of growth and discovery.
 
