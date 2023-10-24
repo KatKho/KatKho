@@ -30,6 +30,10 @@ The tech realm is ever-changing, and I firmly believe in the mantra of continuou
 
 ## 🚀 My Projects
 
+- [Just Talk Chat](https://github.com/JustTalkChat/just-talk-chat) - Oct 2023
+  - **Description**: Our application offers a dynamic chat room where users from around the world can engage in real-time conversations. With our built-in translation feature, users can effortlessly communicate across languages. Leveraging advanced AI, the platform proactively filters and identifies toxic messages for a positive communication environment.
+  - **Technologies**: AWS Lambda, API Gateway, AWS DynamoDB, Amazon Comprehend, Amazon Translate, HTML, JavaScript.
+
 - [Lorecraft](https://github.com/Lore-Craft) - Sep 2023
   - **Description**: Innovative character creation app utilizing GPT-3 and AI imaging. Crafted with React.js, it integrates various components to streamline the process of character creation, letting users delve deeper into the realm of creativity.
   - **Technologies**: React, Bootstrap, MongoDB, Express.js.
