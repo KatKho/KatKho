@@ -6,11 +6,13 @@ Hello! 👋 I'm Ekaterina Khoroshilova, a Full-Stack Software Developer and US C
 
 ## 📌 About Me
 
-- 🎓 Currently attending Code Fellows - Advanced Software Development in Full-Stack JavaScript.
-  - Graduating November 2023
+- Currently pursuing Google UX Design Certificate to enhance my skills in user experience design.
+- 🎓 **Education**:
+  - Advanced Software Development in Full-Stack JavaScript, November 2023.
+  - BS in Informatics from Plekhanov Russian University of Economics, Moscow, Russia.
 - 🛠️ **Technical Skills**:
   - **Languages**: JavaScript, HTML5, CSS3
-  - **Skills and Tools**: React, MongoDB, Express.js, Bootstrap, Git, Node.js, GitHub, VS Code, Visual Studio, Netlify, Render, Auth0, SQL, NoSQL, Markdown, Jest, Unix, ES6, REST API, AWS, Socket.IO.
+  - **Skills and Tools**: React (including hooks, context API), MongoDB, Express.js, Bootstrap, Git, Node.js, GitHub, VS Code, Visual Studio, Netlify, Render, Auth0, SQL, NoSQL, Markdown, Jest, Unix, ES6, REST API, AWS (Lambda, API Gateway, DynamoDB, Amazon Comprehend), Socket.IO, React Native, Redux, Docker (basic), Agile/Scrum methodologies, WebSockets, Continuous Integration/Continuous Deployment (CI/CD) principles
 
 ## 🌍 My Developer's Journey
 
@@ -26,10 +28,14 @@ Ever since I can recall, video games have been my escape, my passion, and my win
 
 ## 📈 Continuous Growth
 
-The tech realm is ever-changing, and I firmly believe in the mantra of continuous learning. Currently, I'm honing my skills at Code Fellows, specializing in Full-Stack JavaScript. Yet, this is just a step in my perpetual journey of growth and discovery.
+The tech realm is ever-changing, and I firmly believe in the mantra of continuous learning. Having recently graduated from Code Fellows with a focus on Full-Stack JavaScript, I've taken a significant step in my journey. Currently, I'm expanding my skillset further by pursuing the Google UX Design Certificate, diving into the intricacies of user experience and interface design. This ongoing journey of learning and discovery is not just about acquiring new skills but about evolving my perspective and approach to problem-solving in the dynamic tech landscape.
 
 ## 🚀 My Projects
 
+- [Lost Hub](https://github.com/lost-hub-app) - Nov 2023
+  - **Description**: Lost Hub streamlines the process of reporting and finding lost items with a user-friendly digital platform. It modernizes traditional lost and found systems, offering a centralized solution for more efficient reporting and retrieval of belongings.
+  - **Technologies**: React, MongoDB, Express.js, Node.js, Google Maps API, Auth0, Axios.
+  
 - [Just Talk Chat](https://github.com/JustTalkChat/just-talk-chat) - Oct 2023
   - **Description**: Our application offers a dynamic chat room where users from around the world can engage in real-time conversations. With our built-in translation feature, users can effortlessly communicate across languages. Leveraging advanced AI, the platform proactively filters and identifies toxic messages for a positive communication environment.
   - **Technologies**: AWS Lambda, API Gateway, AWS DynamoDB, Amazon Comprehend, Amazon Translate, HTML, JavaScript.
