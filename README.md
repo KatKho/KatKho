@@ -24,7 +24,7 @@ Today, as a Full-Stack Software Developer, I see every project as an opportunity
 
 ## 🎮 Gaming & AI
 
-Ever since I can recall, video games have been my escape, my passion, and my window to countless worlds. This love for gaming aligns perfectly with my fascination for AI. I believe that the future of gaming will be significantly influenced by advancements in AI, and I aspire to be a part of this evolution. With projects like "Lorecraft," where I've melded character creation with GPT-3 and AI imaging, I'm steadily working towards this goal.
+Ever since I can recall, video games have been my escape, my passion, and my window to countless worlds. This love for gaming aligns perfectly with my fascination for AI. I believe that the future of gaming will be significantly influenced by advancements in AI, and I aspire to be a part of this evolution.
 
 ## 📈 Continuous Growth
 
@@ -44,7 +44,7 @@ The tech realm is ever-changing, and I firmly believe in the mantra of continuou
   - **Description**: Innovative character creation app utilizing GPT-3 and AI imaging. Crafted with React.js, it integrates various components to streamline the process of character creation, letting users delve deeper into the realm of creativity.
   - **Technologies**: React, Bootstrap, MongoDB, Express.js.
 
-- [City Explorer](https://github.com/KatKho/city-explorer) - Aug 2023
+- [City Explorer](https://github.com/KatKho/city-explorer) - Aug 2023 (Currently working on Version 2.0) 
   - **Description**: Dynamic web app for city exploration with real-time information. Provides a detailed map of the selected city, alongside an accurate weather forecast and a carousel of movies featuring the city. Enhances the exploration experience for users.
   - **Technologies**: React, Bootstrap, Express.js.
 
