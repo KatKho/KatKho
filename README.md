@@ -44,8 +44,8 @@ The tech realm is ever-changing, and I firmly believe in the mantra of continuou
   - **Description**: Innovative character creation app utilizing GPT-3 and AI imaging. Crafted with React.js, it integrates various components to streamline the process of character creation, letting users delve deeper into the realm of creativity.
   - **Technologies**: React, Bootstrap, MongoDB, Express.js.
 
-- [City Explorer](https://github.com/KatKho/city-explorer) - Aug 2023 (Currently working on Version 2.0) 
-  - **Description**: Dynamic web app for city exploration with real-time information. Provides a detailed map of the selected city, alongside an accurate weather forecast and a carousel of movies featuring the city. Enhances the exploration experience for users.
+- [City Explorer](https://github.com/KatKho/city-explorer) - Aug 2023 (Version 1.0), Dec 2023 (Version 1.1)
+  - **Description**: Dynamic web app for city exploration with real-time information. Provides a detailed map of the selected city, alongside an accurate weather forecast, popular events and a carousel of movies featuring the city. Enhances the exploration experience for users.
   - **Technologies**: React, Bootstrap, Express.js.
 
 - [Workout Tracker](https://github.com/201-workout/201-workout) - Jul 2023
