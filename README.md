@@ -13,8 +13,9 @@ Hello! 👋 I'm Ekaterina Khoroshilova, a Full-Stack Software Developer and US C
 - 🛠️ **Technical Skills**:
   - **Languages**: JavaScript, HTML5, CSS3
   - **Frameworks & Libraries**: React, React Native, Redux, Bootstrap
-  - **Back-End Development**: Node.js, Express.js, MongoDB, SQL, NoSQL
+  - **Back-End Development**: Node.js, Express.js, MongoDB, SQL, NoSQL, Firebase
   - **Cloud & DevOps**: AWS (Elastic Beanstalk, S3, Lambda, API Gateway, DynamoDB, SNS, SQS, Amazon Comprehend, Amazon Translate), Google Cloud
+  - **UX/UI Design**: Wireframing, Prototyping, User Research, Figma
   - **Tools**: Git, GitHub, VS Code, Visual Studio, Netlify, Render, Trello, Auth0, Jest, Unix, ES6, RESTful API, WebSockets, CI/CD Principles, Agile Methodologies
 
 ## 🌍 My Developer's Journey
