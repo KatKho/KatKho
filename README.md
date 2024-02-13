@@ -6,8 +6,8 @@ Hello! 👋 I'm Ekaterina Khoroshilova, a Full-Stack Software Developer and US C
 
 ## 📌 About Me
 
-- Currently pursuing Google UX Design Certificate to enhance my skills in user experience design.
 - 🎓 **Education**:
+  - Google UX Design Certificate, February 2024.
   - Advanced Software Development in Full-Stack JavaScript, November 2023.
   - BS in Informatics from Plekhanov Russian University of Economics, Moscow, Russia.
 - 🛠️ **Technical Skills**:
@@ -32,7 +32,7 @@ Ever since I can recall, video games have been my escape, my passion, and my win
 
 ## 📈 Continuous Growth
 
-The tech realm is ever-changing, and I firmly believe in the mantra of continuous learning. Having recently graduated from Code Fellows with a focus on Full-Stack JavaScript, I've taken a significant step in my journey. Currently, I'm expanding my skillset further by pursuing the Google UX Design Certificate, diving into the intricacies of user experience and interface design. This ongoing journey of learning and discovery is not just about acquiring new skills but about evolving my perspective and approach to problem-solving in the dynamic tech landscape.
+The tech landscape is dynamic and ever-evolving, and staying ahead means embracing continuous learning. Having graduated from Code Fellows with a specialization in Full-Stack JavaScript, I've recently taken another significant leap in my professional growth by completing the Google UX Design Certificate. This latest achievement has allowed me to delve deep into the nuances of user experience and interface design, enriching my skillset and perspective. This journey of ongoing education and exploration is more than just skill acquisition; it's about continuously evolving my approach to problem-solving and adapting to the ever-changing demands of the tech world.
 
 ## 🚀 My Projects
 
