@@ -56,7 +56,7 @@ The tech landscape is dynamic and ever-evolving, and staying ahead means embraci
   - **Description**: Exercise routine tracking app that logs users’ workouts, diligently recording individuals' weekly and daily workouts alongside prescribed reps and sets for each exercise. A comprehensive exercise compendium offers guidance on proper execution, reflecting a holistic fitness approach.
   - **Technologies**: JavaScript, HTML, CSS.
 
-🔗 [Check out my portfolio website](https://ekaterina-portfolio.netlify.app/)
+🔗 [Check out my portfolio website](https://ekhoro.wordpress.com/)
 
 ## 🤝 Connect With Me
 
