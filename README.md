@@ -12,7 +12,7 @@ Hello! 👋 I'm Ekaterina Khoroshilova, a Full-Stack Software Developer and US C
   - BS in Informatics from Plekhanov Russian University of Economics, Moscow, Russia.
 - 🛠️ **Technical Skills**:
   - **Languages**: JavaScript, HTML5, CSS3
-  - **Frameworks & Libraries**: React, React Native, Redux, Bootstrap
+  - **Frameworks & Libraries**: React, React Native, Redux, Bootstrap, WordPress, Expo
   - **Back-End Development**: Node.js, Express.js, MongoDB, SQL, NoSQL, Firebase
   - **Cloud & DevOps**: AWS (Elastic Beanstalk, S3, Lambda, API Gateway, DynamoDB, SNS, SQS, Amazon Comprehend, Amazon Translate), Google Cloud
   - **UX/UI Design**: Wireframing, Prototyping, User Research, Figma
