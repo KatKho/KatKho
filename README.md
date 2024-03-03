@@ -36,6 +36,11 @@ The tech landscape is dynamic and ever-evolving, and staying ahead means embraci
 
 ## 🚀 My Projects
 
+- [SpinTasker](https://github.com/KatKho/SpinTasker) - Mar 2024
+  - **Description**: SpinTasker, currently under development, is an engaging React Native app that revolutionizes task management with a 'wheel of fortune' feature. Users can add, edit, and prioritize tasks, then spin the wheel for a fun way to decide their next task. It includes user authentication, calendar integration, and swipe-to-edit/delete functions, combining productivity with a playful approach.
+  - **Technologies**: React Native, Firebase (Auth, Firestore), Expo, React Navigation, AsyncStorage.
+
+
 - [Lost Hub](https://github.com/lost-hub-app) - Nov 2023
   - **Description**: Lost Hub streamlines the process of reporting and finding lost items with a user-friendly digital platform. It modernizes traditional lost and found systems, offering a centralized solution for more efficient reporting and retrieval of belongings.
   - **Technologies**: React, MongoDB, Express.js, Node.js, Google Maps API, Auth0, Axios.
