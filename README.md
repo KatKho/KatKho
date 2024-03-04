@@ -38,7 +38,7 @@ The tech landscape is dynamic and ever-evolving, and staying ahead means embraci
 
 - [SpinTasker](https://github.com/KatKho/SpinTasker) - Mar 2024
   - **Description**: SpinTasker is an engaging React Native app that revolutionizes task management with a 'wheel of fortune' feature. Users can add, edit, and prioritize tasks, then spin the wheel for a fun way to decide their next task. It includes user authentication, calendar integration, and swipe-to-edit/delete functions, combining productivity with a playful approach.
-  - **Technologies**: React Native, Firebase (Auth, Firestore), Expo, React Navigation, AsyncStorage.
+  - **Technologies**: React Native, Firebase (Auth, Firestore), Expo.
 
 
 - [Lost Hub](https://github.com/lost-hub-app) - Nov 2023
