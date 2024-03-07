@@ -72,4 +72,3 @@ The tech landscape is dynamic and ever-evolving, and staying ahead means embraci
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KatKho&theme=dark)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KatKho&layout=compact&theme=dark)](https://github.com/KatKho)
