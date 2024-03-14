@@ -7,7 +7,7 @@ Hello! 👋 I'm Ekaterina Khoroshilova, a Full-Stack Software Developer and US C
 ## 📌 About Me
 
 - 🎓 **Education**:
-  - Google IT Automation with Python Professional Certificate, In Progress.
+  - Google IT Automation with Python Certificate, In Progress.
   - Google UX Design Certificate, February 2024.
   - Advanced Software Development in Full-Stack JavaScript, November 2023.
   - BS in Informatics from Plekhanov Russian University of Economics, Moscow, Russia.
