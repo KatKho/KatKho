@@ -7,16 +7,16 @@ Hello! 👋 I'm Ekaterina Khoroshilova, a Full-Stack Software Developer and US C
 ## 📌 About Me
 
 - 🎓 **Education**:
-  - Google IT Automation with Python Certificate, In Progress.
+  - Bachelor of Science in Informatics, University of Washington, Seattle, WA, In Progress.
   - Google UX Design Certificate, February 2024.
   - Advanced Software Development in Full-Stack JavaScript Certificate, November 2023.
 - 🛠️ **Technical Skills**:
-  - **Languages**: JavaScript, Python (basic), HTML5, CSS3
+  - **Languages**: Java, JavaScript, HTML5, CSS3, Python (basic), R (basic)
   - **Frameworks & Libraries**: React, React Native, Redux, Bootstrap, WordPress, Expo
   - **Back-End Development**: Node.js, Express.js, MongoDB, SQL, NoSQL, Firebase
   - **Cloud & DevOps**: AWS (Elastic Beanstalk, S3, Lambda, API Gateway, DynamoDB, SNS, SQS, Amazon Comprehend, Amazon Translate), Google Cloud
   - **UX/UI Design**: Wireframing, Prototyping, User Research, Figma
-  - **Tools**: Git, GitHub, VS Code, Visual Studio, Netlify, Render, Trello, Auth0, Jest, Unix, ES6, RESTful APIs, WebSockets, CI/CD Principles, Agile Methodologies
+  - **Tools**: Git, GitHub, VS Code, Visual Studio, Netlify, Render, Trello, Auth0, Jest, Unix, ES6, RESTful APIs, WebSockets, CI/CD Principles, Agile Methodologies, R Studio
 
 ## 🌍 My Developer's Journey
 
