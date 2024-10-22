@@ -11,7 +11,7 @@ Hello! 👋 I'm Ekaterina Khoroshilova, a Full-Stack Software Developer and US C
   - Google UX Design Certificate, February 2024.
   - Advanced Software Development in Full-Stack JavaScript Certificate, November 2023.
 - 🛠️ **Technical Skills**:
-  - **Languages**: Java, JavaScript, HTML5, CSS3, Python (basic), R (basic)
+  - **Languages**: Java, JavaScript, HTML5, CSS3, Python, R
   - **Frameworks & Libraries**: React, React Native, Redux, Bootstrap, WordPress, Expo
   - **Back-End Development**: Node.js, Express.js, MongoDB, SQL, NoSQL, Firebase
   - **Cloud & DevOps**: AWS (Elastic Beanstalk, S3, Lambda, API Gateway, DynamoDB, SNS, SQS, Amazon Comprehend, Amazon Translate), Google Cloud
