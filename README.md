@@ -7,7 +7,7 @@ Hello! 👋 I'm Ekaterina Khoroshilova, a Full-Stack Software Developer and US C
 ## 📌 About Me
 
 - 🎓 **Education**:
-  - Bachelor of Science in Informatics, University of Washington, Seattle, WA, In Progress.
+  - Bachelor of Science in Informatics, University of Washington, In Progress.
   - Google UX Design Certificate, February 2024.
   - Advanced Software Development in Full-Stack JavaScript Certificate, November 2023.
 - 🛠️ **Technical Skills**:
